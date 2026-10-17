@@ -11,6 +11,7 @@
 | 项目 | 内容 |
 | --- | --- |
 | [AI Engineering Workspace Standard](https://github.com/sunpcm/ai-workspace-standard) | 最小、与 Agent 工具解耦的工程知识与交接标准。 |
+| [Review Loop Skill](https://github.com/sunpcm/review-loop-skill)（私有） | 适用于 Codex / Claude Code 的双 Agent 评审循环，明确实施边界，以独立核验和可追溯证据推进交付。 |
 | [EchoTalk](https://github.com/sunpcm/EchoTalk) | 基于 LiveKit、FastAPI 和 React 的实时语音英语口语练习应用。 |
 | [DevOpsToolkit](https://github.com/sunpcm/DevOpsToolkit) | 基于 Ansible 的 Linux / WSL 环境配置，明确系统、root 与普通用户的配置边界。 |
 | [Vite React Template](https://github.com/sunpcm/vite-react-template) | 配好测试、代码检查和 CI 的 React + TypeScript 项目起点。 |

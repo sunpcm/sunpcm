@@ -11,6 +11,7 @@ I work across Python and TypeScript, from realtime voice applications and comput
 | Project | What you'll find |
 | --- | --- |
 | [AI Engineering Workspace Standard](https://github.com/sunpcm/ai-workspace-standard) | A minimal, agent-agnostic standard for durable engineering knowledge and handoffs. |
+| [Review Loop Skill](https://github.com/sunpcm/review-loop-skill) (private) | A portable Codex / Claude Code workflow for independent architecture review, scoped implementation handoffs, and evidence-based verification. |
 | [EchoTalk](https://github.com/sunpcm/EchoTalk) | An English speaking practice application built around realtime voice conversations, LiveKit, FastAPI, and React. |
 | [DevOpsToolkit](https://github.com/sunpcm/DevOpsToolkit) | Ansible-based Linux and WSL setup, with explicit boundaries between system, root, and user configuration. |
 | [Vite React Template](https://github.com/sunpcm/vite-react-template) | A reusable React and TypeScript starting point with testing, linting, and CI configuration. |
